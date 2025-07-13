@@ -1,36 +1,47 @@
+<!-- LOGOS HEADER -->
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" height="40"/>
+  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png" alt="SQLAlchemy" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40"/>
+  <img src="https://raw.githubusercontent.com/redis/redis/unstable/utils/redis-icon.png" alt="Redis" height="40"/>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40"/>
+</p>
+
 # 2025Notes
 
-A comprehensive collection of notes and code examples for Python, FastAPI, SQLAlchemy, Git, GitHub, Redis, and Python Async programming. This repository is organized for quick reference and deep dives into each topic, making it ideal for revision, learning, and interview preparation.
+A comprehensive collection of notes and code examples for Python, FastAPI, SQLAlchemy, Git, GitHub, Redis, Docker, and Python Async programming. This repository is organized for quick reference and deep dives into each topic, making it ideal for revision, learning, and interview preparation.
 
 ---
 
 ## 📁 Folder Structure
 
-- **FASTAPI Notes/**
-  - **10SQlAlchemy/**: In-depth SQLAlchemy notes (installation, ORM, models, relationships, querying, advanced features, etc.)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" height="20"/> **FASTAPI Notes/**
+  - <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png" alt="SQLAlchemy" height="16"/> **10SQlAlchemy/**: In-depth SQLAlchemy notes (installation, ORM, models, relationships, querying, advanced features, etc.)
   - **11Events/**: FastAPI events.
   - **12database/**: Database notes (Postgres, MySQL, etc.)
   - **13alembic/**: Alembic migrations and SQLAlchemy comparison.
   - **14Testing/**: Testing in FastAPI (pytest, unittest, integration, validations).
-- **Git and Github/**: Git and GitHub basics, branches, and workflows.
-- **Python Async/**: Async programming in Python (async/await, examples).
-- **Redis/**: Redis basics and usage.
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="18"/> **Git and Github/**: Git and GitHub basics, branches, and workflows.
+- <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="18"/> **Python Async/**: Async programming in Python (async/await, examples).
+- <img src="https://raw.githubusercontent.com/redis/redis/unstable/utils/redis-icon.png" alt="Redis" height="18"/> **Redis/**: Redis basics and usage.
+- <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="18"/> **Docker/**: Docker concepts, commands, and best practices.
 
 ---
 
-## 📝 SQLAlchemy Notes
+## 📝 SQLAlchemy Notes Overview
 
-The `FASTAPI Notes/10SQlAlchemy/` folder contains:
-- `0intro.md`: Introduction to SQLAlchemy
-- `1ord.md`: Table of contents for SQLAlchemy notes
-- `2installation.md`: Installation and setup
-- `3core_concepts.md`: Engine, Session, MetaData
-- `4orm_basics.md`: ORM basics and simple examples
-- `5defining_models.md`: Defining models, columns, constraints
-- `6reflecting_existing_db.md`: Reflecting existing databases and generating models
-- `7relationships.md`: Relationships (one-to-many, many-to-many, etc.)
-- `8querying.md`: Querying, filtering, joining, updating, deleting
-- `9advanced_features.md`: Migrations, connection pooling, custom types
+The <code>FASTAPI Notes/10SQlAlchemy/</code> folder contains:
+- <b>0intro.md</b>: Introduction to SQLAlchemy
+- <b>1ord.md</b>: Table of contents for SQLAlchemy notes
+- <b>2installation.md</b>: Installation and setup
+- <b>3core_concepts.md</b>: Engine, Session, MetaData
+- <b>4orm_basics.md</b>: ORM basics and simple examples
+- <b>5defining_models.md</b>: Defining models, columns, constraints
+- <b>6reflecting_existing_db.md</b>: Reflecting existing databases and generating models
+- <b>7relationships.md</b>: Relationships (one-to-many, many-to-many, etc.)
+- <b>8querying.md</b>: Querying, filtering, joining, updating, deleting
+- <b>9advanced_features.md</b>: Migrations, connection pooling, custom types
 
 ---
 
