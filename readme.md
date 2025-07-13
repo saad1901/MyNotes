@@ -3,7 +3,7 @@
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" height="45"/>
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg" alt="Redis" height="45"/>
+  <img src="https://assets.stickpng.com/images/584830b5cef1014c0b5e4a9c.png" alt="Redis" height="45"/>
   <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png" alt="SQLAlchemy" height="45"/>
 </p>
 
